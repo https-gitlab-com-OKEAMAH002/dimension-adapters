@@ -33,7 +33,7 @@
     "graphql-request": "5.1.0",
     "pg": "^8.11.3",
     "sequelize": "^6.36.0",
-    "tron-format-address": "^0.1.11"
+    "tron-format-address": "^0.1.12"
   },
   "devDependencies": {
     "glob": "^10.3.10",
